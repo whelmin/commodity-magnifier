@@ -52,10 +52,7 @@ commodityMagnifier
 </div>
 ```
 ### 交互
-
-$$
 S大/S小 = O大/ O放 = S 显/ S放
-$$
 ![](http://ww1.sinaimg.cn/large/e6164e5dgy1fcor88rovkj20mq0h30u0)
 
 ```javascript
