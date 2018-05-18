@@ -7,7 +7,7 @@
 ## 项目目录
 
 ```
-commodityMagnifier
+commodity-magnifier
    ├─ README.md
    ├─ index.html *      // 访问入口 (打包后)
    ├─ dist *            // 打包后文件夹
